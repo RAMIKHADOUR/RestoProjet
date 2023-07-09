@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+
+.cc-navbar{
+    background-color: rgb(135, 132, 132);
+    font-family: 'Merriweather',serif;
+    box-shadow: 1px 1px 3px rgb(123, 123, 123);
+}
+.btn-order{
+    color:var(--bs-teal);
+    border-color:var(--bs-teal);
+    transition: 0.5s;
+}
+.btn-order:hover,
+.btn-order:active{
+color:#fff;
+background-color:var(--bs-teal) ;
+}
